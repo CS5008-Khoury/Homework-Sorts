@@ -48,7 +48,7 @@ Support files to help with implementation and experimentation:
 
 
 Documentation:
-* [README.md](../README.md) - A bit more sparse for this one, as the questions are moved to Report.md. Don't forget the link to your repo as TAs will be looking at the github page to grade. 
+* [README.md](../README.md) - Your typical readme. Don't forget the link to your repo as TAs will be looking at the github page to grade. 
 * [Report.md](../Report.md) - This is where you will build your data table for your experiment, and answer technical questions. 
 
 ## Commonality Between These Sorts
