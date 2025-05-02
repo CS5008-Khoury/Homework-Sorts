@@ -14,15 +14,15 @@ Since there are a lot of files with this assignment, let's first examine the fil
 ## Included Files
 
 The files that you will implement:
-* [sort_helper.h](../sort_helper.h) - should have been implemented in your team activity. Contains the ability to print an int array, and swap two ints. 
-* [sorts.h](../sorts.h) - this is where you will implement your sorts. Please copy the bubble sort, and eventually merge sort of your team activities into this one, and make sure give credit where credit is due. 
+* [sort_helper.h](../src/sort_helper.h) - should have been implemented in your team activity. Contains the ability to print an int array, and swap two ints. 
+* [sorts.h](../src/sorts.h) - this is where you will implement your sorts. Please copy the bubble sort, and eventually merge sort of your team activities into this one, and make sure give credit where credit is due. 
 
 
 Support files to help with implementation and experimentation:
-* [insertion_test.c](../insertion_test.c) - provides a few static tests to help with development. 
-* [selection_test.c](../selection_test.c)  - provides a few static tests to help with development.
-* [merge_test.c](../merge_test.c) -- provides a few static tests for merge start (Team Activity 05)
-* [tester.c](../tester.c) - this is the main driver of your program. It will randomly generate arrays, and collect the time it takes to sort the array. You can also specify four different sorts to use, so once all your code is working, use this file to generate data for your experiment. If you want, you may considering writing a script that runs this file repeatedly.
+* [insertion_test.c](../src/insertion_test.c) - provides a few static tests to help with development. 
+* [selection_test.c](../src/selection_test.c)  - provides a few static tests to help with development.
+* [merge_test.c](../src/merge_test.c) -- provides a few static tests for merge start (Team Activity 05)
+* [tester.c](../src/tester.c) - this is the main driver of your program. It will randomly generate arrays, and collect the time it takes to sort the array. You can also specify four different sorts to use, so once all your code is working, use this file to generate data for your experiment. If you want, you may considering writing a script that runs this file repeatedly.
 
 
 Documentation:
