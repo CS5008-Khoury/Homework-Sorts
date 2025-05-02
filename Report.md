@@ -108,7 +108,7 @@ For both these questions, are you are free to use what you did as the last secti
 1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury-lionelle/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
 
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury-lionelle/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
-3. 
+ 
 
 ## Deeper Thinking
 Sorting algorithms are still being studied today. They often include a statistical analysis of data before sorting. This next question will require some research, as it isn't included in class content. When you call `sort()` or `sorted()` in Python 3.6+, what sort is it using? 
