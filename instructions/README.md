@@ -139,6 +139,10 @@ Under the table, make sure to answer the questions specific to your analysis ins
 We encourage you to spend time, and craft clear answers. You will find markdown has ways to create [diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams) and [math expressions](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 
 
+> [!NOTE]
+> Including operations counter? You are welcome to also include an operations counter.
+> We recommend first completing the autograder, then adding an optional
+> flag for the operations counter. Including it can help make your report more clear.
 
 ### Growth
 
