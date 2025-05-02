@@ -16,7 +16,7 @@ deeper on the sorts and how to compare the different algorithms.
   - [Insertion Sort](#insertion-sort)
   - [Calculating Times](#calculating-times)
     - [Growth](#growth)
-  - [README.md](#readmemd)
+    - [Report.md](#reportmd)
   - [📝 Grading Rubric](#-grading-rubric)
     - [Submission Reminder 🚨](#submission-reminder-)
   - [📚 Resources](#-resources)
@@ -43,7 +43,7 @@ The files that you will implement:
 Support files to help with implementation and experimentation:
 * [insertion_test.c](../src/insertion_test.c) - provides a few static tests to help with development. 
 * [selection_test.c](../src/selection_test.c)  - provides a few static tests to help with development.
-* [merge_test.c](../src/merge_test.c) -- provides a few static tests for merge start (Team Activity 05)
+* [merge_test.c](../src/merge_test.c) -- provides a few static tests for merge start (Lab 05)
 * [tester.c](../src/tester.c) - this is the main driver of your program. It will randomly generate arrays, and collect the time it takes to sort the array. You can also specify four different sorts to use, so once all your code is working, use this file to generate data for your experiment. If you want, you may considering writing a script that runs this file repeatedly.
 
 
@@ -60,7 +60,7 @@ Make sure to use the resources below to visualize the sorts!
 
 
 ## Selection Sort
-👉🏽 **Task**: Implement the selection sort in [sorts.h](../sorts.h).
+👉🏽 **Task**: Implement the selection sort in [sorts.h](../src/sorts.h).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif" style="float:right;padding-left:20px;" />
 
@@ -92,7 +92,7 @@ For example:
 <br style="clear:both"/>
 
 ## Insertion Sort
-👉🏽 **Task**: Implement the insertion sort in [sorts.h](../sorts.h).
+👉🏽 **Task**: Implement the insertion sort in [sorts.h](../src/sorts.h).
 
 An insertion sort, shown below looks inserts value into their correct location, assuming he left hand size (even if it is one item) is sorted.  So given the graphic, you are looking
 
@@ -157,9 +157,12 @@ Another way to look at it, we can think about our searches we touched on in 5001
 
 
 
-## README.md
 
-Your [README.md](../README.md) has its questions moved to [Report.md](../Report.md). 
+### Report.md 
+You will notice there are questions in your [readme.md](../README.md) and [Report.md](../Report.md) file. You will want to answer these questions. For this course, we will be doing a lot with Markdown files, so it is important to get used to them. You may even want to review the [Markdown Guide](https://guides.github.com/features/mastering-markdown/) to get a better understanding of how to format your readme.md file.
+
+Every assignment will have to fill out both a README.md and Report.md, so make sure you review them!
+
 
 ## 📝 Grading Rubric
 
@@ -180,8 +183,8 @@ Add (AG) and (MG) next to tiers, add major conditions to meet to pass each tier.
    * Report has tables and charts. 
    * Questions 1,2,3(all parts) answered correctly.
 4. Exceeds  (MG)
-   * Remaining Report questions answered correctly.
-   * Readme.md technical interview and coding practice question answered (and file provided)
+   * Remaining Report questions answered correctly, including deeper thinking
+   * Technical interview and coding practice question answered (and file provided)
 
 
 AG - Auto-graded  
