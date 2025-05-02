@@ -1,13 +1,35 @@
-# Homework 04 - Sort Analysis
-
-> **Notice**
-> This assignment builds directly on Team Activity 04 - Bubble Sort and Team Activity 05 - Merge Sort. 
-
-> This is a two week assignment! (essentially both Homework 04 and 05 combined)
-
+# Homework - Sort Analysis
 For this homework, you will be writing two other Quadratic Sorts, $O(n^2)$: Insertion and Substitution sort. 
 More importantly, you will be running an experiment getting timings for the sorts, and thinking
 deeper on the sorts and how to compare the different algorithms.  
+
+> **Notice**
+> This assignment builds directly on Labs- Bubble Sort and - Merge Sort. 
+
+
+
+- [Homework - Sort Analysis](#homework---sort-analysis)
+  - [Learning Objectives](#learning-objectives)
+  - [Included Files](#included-files)
+  - [Commonality Between These Sorts](#commonality-between-these-sorts)
+  - [Selection Sort](#selection-sort)
+  - [Insertion Sort](#insertion-sort)
+  - [Calculating Times](#calculating-times)
+    - [Growth](#growth)
+  - [README.md](#readmemd)
+  - [📝 Grading Rubric](#-grading-rubric)
+    - [Submission Reminder 🚨](#submission-reminder-)
+  - [📚 Resources](#-resources)
+
+## Learning Objectives
+
+For this assignment, you will learn
+* Implementing quadratic sorts: bubble, insertion, and selection sort
+* Implementing merge sort
+* Using the built in Quick Sort with C
+* Timing various sorts
+* Comparing the time outputs of sorts focusing on Big O and runtime analysis
+
 
 Since there are a lot of files with this assignment, let's first examine the files you have:
 
