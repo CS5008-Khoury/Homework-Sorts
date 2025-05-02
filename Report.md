@@ -100,21 +100,32 @@ Describe an algorithm that will help you find the coin. We encourage you to use 
 #### 7.2 Time Complexity
 What is the average time complexity of your algorithm? 
 
-### 8. Modern Sort
+
+## Technical Interview Practice Questions
+
+For both these questions, are you are free to use what you did as the last section on the team activities/answered as a group, or you can use a different question.
+
+1. Select one technical interview question (this module or previous) from the [technical interview list](https://github.com/CS5008-khoury-lionelle/Resources/blob/main/TechInterviewQuestions.md) below and answer it in a few sentences. You can use any resource you like to answer the question.
+
+2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury-lionelle/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
+3. 
+
+## Deeper Thinking
 Sorting algorithms are still being studied today. They often include a statistical analysis of data before sorting. This next question will require some research, as it isn't included in class content. When you call `sort()` or `sorted()` in Python 3.6+, what sort is it using? 
 
-#### 8.1 Visualize
+#### Visualize
 Find a graphic / visualization (can be a youtube video) that demonstrates the sort in action. 
 
-#### 8.2 Big O
+#### Big O
 Give the worst and best case time-complexity, and examples that would generate them. 
 
 <hr>
 
 ## References
-Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Computer Science research often uses [IEEE] or [ACM Reference format].
+Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Use [ACM Reference format].
 
-[1] Reference info, date, etc.
+1. Reference info, date, etc.
+2. ...
 
 
 
