@@ -3,7 +3,7 @@
 ## Results Table
 Make sure to go out to at least 100,000 (more are welcome), and you have 10 different values (more welcome). You are welcome to go farther, but given 100,000 can take about 20 seconds using a selection sort on a fast desktop computer, and 200,000 took 77 seconds, you start having to wait much longer the more 0s you add. However, to build a clearer line, you will want more data points, and you will find merge and quick are able to handle higher numbers easier (but at a cost you will explore below). 
 
-You are free to write a script to run the program and build your table (then copy that table built into the markdown). If you do that, please include the script into the repo.  Note: merge and quick sorts are going to be explored in the team activity for Module 06. You can start on it now, but welcome to wait.
+You are free to write a script to run the program and build your table (then copy that table built into the markdown). If you do that, please include the script into the repo.  Note: merge and quick sorts are going to be explored in the team activity. You can start on it now, but welcome to wait.
 
  
 
@@ -110,22 +110,13 @@ For both these questions, are you are free to use what you did as the last secti
 2. Select one coding question (this module or previous) from the [coding practice repository](https://github.com/CS5008-khoury/Resources/blob/main/LeetCodePractice.md) and include a c file with that code with your submission. Make sure to add comments on what you learned, and if you compared your solution with others. 
  
 
-## Deeper Thinking
-Sorting algorithms are still being studied today. They often include a statistical analysis of data before sorting. This next question will require some research, as it isn't included in class content. When you call `sort()` or `sorted()` in Python 3.6+, what sort is it using? 
-
-#### Visualize
-Find a graphic / visualization (can be a youtube video) that demonstrates the sort in action. 
-
-#### Big O
-Give the worst and best case time-complexity, and examples that would generate them. 
-
-<hr>
 
 ## References
 Add your references here. A good reference includes an inline citation, such as [1] , and then down in your references section, you include the full details of the reference. Use [ACM Reference format].
 
-1. Reference info, date, etc.
-2. ...
+[1] Reference info, date, etc.
+
+[2]  ...
 
 
 

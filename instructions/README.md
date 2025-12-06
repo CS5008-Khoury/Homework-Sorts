@@ -187,7 +187,7 @@ Add (AG) and (MG) next to tiers, add major conditions to meet to pass each tier.
    * Report has tables and charts. 
    * Questions 1,2,3(all parts) answered correctly.
 4. Exceeds  (MG)
-   * Remaining Report questions answered correctly, including deeper thinking
+   * Remaining Report questions answered correctly.
    * Technical interview and coding practice question answered (and file provided)
 
 
